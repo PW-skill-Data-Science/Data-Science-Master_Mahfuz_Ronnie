@@ -1,4 +1,5 @@
-# Data-Science-Master_Mahfuz_Ronnie
+# Data-Science-Master_Mahfuz_Ronnie  
+## This repo is moved to [here](https://github.com/mahfuztbt/Data-Science-Master)
 ## Hello I am **Mahfuz Ronnie** and This is my repo for data science masters where I am going to share what I am learning and what I am doing everyday.
 
 ### Day_1 29.01.2023
