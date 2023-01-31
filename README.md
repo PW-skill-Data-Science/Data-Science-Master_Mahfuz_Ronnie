@@ -7,3 +7,7 @@ First day I learned
 * Python Objects, Number & Booleans, Strings.
 * Container Objects, Mutability Of Objects 
 * How to use PW lab
+
+### Day_2 30.01.2023
+* Conditions (If Else, If-Elif-Else), Loops (While, For)
+* Break And Continue Statement And Range Function 
